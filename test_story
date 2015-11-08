@@ -1,0 +1,35 @@
+0
+This is paragraph 0
+1 2 3 4
+go to paragraph 1
+go to paragraph 2
+go to paragraph 3
+go to paragraph 4
+1
+This is paragraph 1
+0 2 3 4
+go to paragraph 0
+go to paragraph 2
+go to paragraph 3
+go to paragraph 4
+2
+This is paragraph 2
+0 1 3 4
+go to paragraph 0
+go to paragraph 1
+go to paragraph 3
+go to paragraph 4
+3
+This is paragraph 3
+0 1 2 4
+go to paragraph 0
+go to paragraph 1
+go to paragraph 2
+go to paragraph 4
+4
+This is paragraph 4. final state
+0 1 2 3
+go to paragraph 0
+go to paragraph 1
+go to paragraph 2
+go to paragraph 3
